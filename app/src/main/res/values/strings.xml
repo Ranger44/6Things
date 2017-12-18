@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">6 Things</string>
+    <string name="action_home">Home</string>
+    <string name="action_edit_list">Edit List Items</string>
+    <string name="action_notifications">Set Notifications</string>
+    <string name="action_personalize">Personalize</string>
+    <string name="action_about">About</string>
+    <string name="edit_insert_failed">Error: Insertion not successful</string>
+    <string name="edit_insert_success">Insertion successful</string>
+</resources>

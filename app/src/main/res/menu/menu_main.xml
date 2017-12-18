@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:id="@+id/action_home"
+        android:title="@string/action_home"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_edit_list"
+        android:title="@string/action_edit_list"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_notifications"
+        android:title="@string/action_notifications"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_personalize"
+        android:title="@string/action_personalize"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_about"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+
+</menu>
